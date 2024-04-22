@@ -1,6 +1,6 @@
 # Capstone-Project
 
-CYBER PHYSICAL SYSTEM USING ARDUINO
+# CYBER PHYSICAL SYSTEM USING ARDUINO
 
 OBJECTIVE
 In the rapidly evolving landscape of healthcare, there is a growing need for innovative solutions that leverage Cyber-Physical Systems (CPS) to enhance patient care,monitoring, and management. The purpose of this project is to design and implement a CPS using Arduino for healthcare applications, focusing on real-time health monitoring and data analysis.
